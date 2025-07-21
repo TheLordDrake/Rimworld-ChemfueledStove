@@ -1,6 +1,9 @@
 <ModMetaData>
     <name>Chemfueled Stove</name>
-    <description>This mod adds Chemfuel as an option for the fueled stove.</description>
+    <description>This mod adds Chemfuel as an option for the fueled stove.
+Fuel ejection is disabled because it will only ever eject the first listed fuel type (wood).
+No endless wood for pawns.
+    </description>
     <author>TheLordDrake</author>
     <supportedVersions>
         <li>1.6</li>
